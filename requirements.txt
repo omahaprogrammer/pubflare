@@ -1,4 +1,20 @@
 A way to send notifications to friends that are not intrusive
-A way for friends to specify when they see notification
+A notification consists of:
+    - Who sent it
+    - Where the flare is "over" (the location of the pub)
+    - When it was sent
+    - When the flare expires (constant? user-definable?)
+A way for friends to specify when they see notifications in order to be unobtrusive
+    - Be able to specify the means of push notifications, e.g. app push, SMS, email, etc.? (MVP: app notifications)
+    - Be able to specify times when they receive push notifications
+    - Be able to specify location boundaries when they should receive notifications
+        - inside and/or outside a particular area
+        - within a certain radius of me (default? suggestion?)
+Needs to take privacy into consideration (locations are involved)
+Advertising is allowed, but can be opted out
+    - Small banner ads at bottom of app pages (never pop-up)
+    - Targeted ads opt-in - never receive app information
 Needs to work in Docker
+    - learning opportunity
 Needs to be deployed to AWS
+    - learning opportunities
