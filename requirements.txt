@@ -18,3 +18,17 @@ Needs to work in Docker
     - learning opportunity
 Needs to be deployed to AWS
     - learning opportunities
+
+Use Cases:
+Flare Poppers
+    - users of the application
+    - want to go to the pub
+    - want to hang out with friends
+    - want to let friends know where they're hanging out
+    - future or present?
+
+Friends
+    - users of the application
+    - want to see flares from their friends on their terms
+    - want to define those terms
+    - let friend (flare popper) know they're coming?
