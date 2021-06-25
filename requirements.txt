@@ -1,0 +1,4 @@
+A way to send notifications to friends that are not intrusive
+A way for friends to specify when they see notification
+Needs to work in Docker
+Needs to be deployed to AWS
