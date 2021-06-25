@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T02:20:26.302Z" agent="5.0 (Windows)" version="14.6.6" etag="t5xE0kOCxKzuGu4zv0FF" type="github"><diagram id="JOx3EVE4XkMiYghFUYPs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-25T03:31:43.388Z" agent="5.0 (Windows)" etag="RRfVw3f1xzDAKMScU93o" version="14.6.6" type="github">
+  <diagram id="JOx3EVE4XkMiYghFUYPs" name="Page-1">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JcaI2oSp_DYIs86cYCnd-1" value="Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JcaI2oSp_DYIs86cYCnd-2" value="Pop a flare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JcaI2oSp_DYIs86cYCnd-3" value="Respond to notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JcaI2oSp_DYIs86cYCnd-4" value="System sends notification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JcaI2oSp_DYIs86cYCnd-5" value="Application receives notification/displays to user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JcaI2oSp_DYIs86cYCnd-6" value="Define notification receiving settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
